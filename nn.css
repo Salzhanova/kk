@@ -1,0 +1,58 @@
+body {
+    background-color: #A52A2A;
+   }
+   h3 {
+    color: floralwhite ;
+    border: 3px ;
+    border-color: rgba(0, 100, 0, 0.692);
+    border-style: groove ;
+    font-size: 25px;
+    padding: 0px 0px 0px 600px;
+    
+   }
+   hr {
+    background-color: floralwhite;
+    border-style: none ;
+    height: 3px;
+   }
+   ul {
+     margin-top: 50px;
+     margin-bottom: 50px;
+     margin-right: 50px;
+     margin-left: 50px;
+    
+   
+   }
+   ol {
+     margin-top: 50px;
+     margin-bottom: 50px;
+     margin-right: 50px;
+     margin-left: 50px;
+   }
+   
+   #name {
+    padding: 0px 0px 50px 600px;
+    color: floralwhite;
+   
+   }
+   #about {
+    color: floralwhite;
+    padding: 0px 0px 50px 400px;
+     display: flex;
+       position: static;
+     border: 3px groove; #73AD21;
+     font-size: 20px;
+     
+   
+   }
+   #Courses {
+      position: static;
+     border: 3px groove; #73AD21;
+     font: fantasy;
+   
+   }
+   #hobbies {
+      position: static;
+     border: 3px groove; #73AD21;
+   
+   }
